@@ -14,4 +14,8 @@ function divide(a,b) {
   return a/b
 }
 
-function 
+function inc(a) {
+  return a++
+}
+
+function dec
