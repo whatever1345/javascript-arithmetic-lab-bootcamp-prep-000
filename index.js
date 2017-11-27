@@ -22,4 +22,8 @@ function dec(a) {
   return a--
 }
 
-function 
+function makeInt(a) {
+  return parseInt(a, 10)
+}
+
+function make
